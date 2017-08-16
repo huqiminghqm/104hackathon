@@ -51,12 +51,12 @@ word2vector_test.py
 ```
 ## 參考網址：
 *Text Mining
-*1.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
-*2.https://www.bbsmax.com/A/l1dy8rax5e/
-*3.https://read01.com/xoGyG4.html#.WZPTUHcjFE4
-*4.http://blog.csdn.net/xiaomuworld/article/details/52461045
-*5.https://github.com/iamxiaomu/doc2vec/blob/master/doc2vct.py
-*6.http://www.cnblogs.com/kaituorensheng/p/3600137.html
-*7.http://blog.csdn.net/eastmount/article/details/50473675
-*8.https://radimrehurek.com/gensim/models/word2vec.html#id4
-*9.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
+*1.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/<br />
+*2.https://www.bbsmax.com/A/l1dy8rax5e/<br />
+*3.https://read01.com/xoGyG4.html#.WZPTUHcjFE4<br />
+*4.http://blog.csdn.net/xiaomuworld/article/details/52461045<br />
+*5.https://github.com/iamxiaomu/doc2vec/blob/master/doc2vct.py<br />
+*6.http://www.cnblogs.com/kaituorensheng/p/3600137.html<br />
+*7.http://blog.csdn.net/eastmount/article/details/50473675<br />
+*8.https://radimrehurek.com/gensim/models/word2vec.html#id4<br />
+*9.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/<br />
