@@ -9,11 +9,13 @@ ann_gridsearch.py
 ```
 ann_savemodel.py
 ```
-1.Ann
-  (i)ann_gridsearch.py
-    使用Gridsearch來尋找最佳training參數。
-  (ii)ann_savemodel.py
-    放置參數到ANN Model。
+
+讀入所有104 hackathon data
+```
+read_data.py
+```
+
+
 2.Dataprocessing
   (i)read_data.py
     讀入所有104 hackathon data
