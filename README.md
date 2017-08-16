@@ -9,7 +9,7 @@ ann_gridsearch.py
 ```
 ann_savemodel.py
 ```
-
+*Dataprocessing<br />
 讀入所有104 hackathon data
 ```
 read_data.py
@@ -18,10 +18,12 @@ read_data.py
 ```
 merge_data.py
 ```
+*Decisiontree<br />
 以觀察資料特性，來找出每一層的規則
 ```
 Cpc_predict.ipynb
 ```
+*Doc2vector<br />
 針對資料中的description，以jieba斷詞。
 ```
 job_description_jieba.py
@@ -34,6 +36,7 @@ doc2vec.py
 ```
 test_doc2vector.py
 ```
+*Word2vector<br />
 針對資料中的description，以jieba斷詞。
 ```
 job_description_jieba.py
@@ -51,9 +54,9 @@ word2vector_test.py
 *1.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
 *2.https://www.bbsmax.com/A/l1dy8rax5e/
 *3.https://read01.com/xoGyG4.html#.WZPTUHcjFE4
-4.http://blog.csdn.net/xiaomuworld/article/details/52461045
-5.https://github.com/iamxiaomu/doc2vec/blob/master/doc2vct.py
-6.http://www.cnblogs.com/kaituorensheng/p/3600137.html
-7.http://blog.csdn.net/eastmount/article/details/50473675
-8.https://radimrehurek.com/gensim/models/word2vec.html#id4
-9.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
+*4.http://blog.csdn.net/xiaomuworld/article/details/52461045
+*5.https://github.com/iamxiaomu/doc2vec/blob/master/doc2vct.py
+*6.http://www.cnblogs.com/kaituorensheng/p/3600137.html
+*7.http://blog.csdn.net/eastmount/article/details/50473675
+*8.https://radimrehurek.com/gensim/models/word2vec.html#id4
+*9.http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
