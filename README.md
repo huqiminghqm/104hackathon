@@ -1,7 +1,7 @@
 ### 2017 104 Hackathon Recommendation
 ## 資料夾
-
-*使用Gridsearch來尋找最佳training參數。*
+#ANN
+*使用Gridsearch來尋找最佳training參數。*<br />
 ```
 ann_gridsearch.py
 ```
