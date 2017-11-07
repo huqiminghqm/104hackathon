@@ -1,5 +1,5 @@
 # 2017 104 Hackathon Recommendation
-## 資料夾
+## 資料夾(1107)
 *ANN
 
 *使用Gridsearch來尋找最佳training參數。*
